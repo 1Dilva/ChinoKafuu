@@ -7,3 +7,4 @@
 # See you! And have fun using me.
 
 ![Chino Kafuu](https://repository-images.githubusercontent.com/203506793/08e09480-db3b-11e9-8daa-175b74a05b92)
+[![Run on Repl.it](https://repl.it/badge/github/DanielaGC/ChinoKafuu)](https://repl.it/github/DanielaGC/ChinoKafuu)
